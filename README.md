@@ -21,7 +21,7 @@ Coral device such as the
     ```
     mkdir google-coral && cd google-coral
 
-    git clone https://github.com/google-coral/examples-camera.git --depth 1
+    git clone https://github.com/modifly-drones/coral-examples-camera.git --depth 1
     ```
 
 3.  Download the models:
